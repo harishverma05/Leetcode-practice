@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
