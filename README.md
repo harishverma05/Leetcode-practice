@@ -6,10 +6,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harishverma05/Leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/harishverma05/Leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
