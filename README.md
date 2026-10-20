@@ -59,4 +59,16 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harishverma05/Leetcode-practice/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harishverma05/Leetcode-practice/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harishverma05/Leetcode-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
