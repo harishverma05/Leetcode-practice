@@ -7,12 +7,14 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harishverma05/Leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/harishverma05/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harishverma05/Leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Tree
 |  |
@@ -71,4 +73,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harishverma05/Leetcode-practice/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/harishverma05/Leetcode-practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
